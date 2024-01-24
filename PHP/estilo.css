@@ -1,0 +1,67 @@
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+}
+/*--------------HEADER-------------*/
+
+header {
+
+	background-color: #242424;
+
+	padding-top: 10px;
+
+}
+
+
+
+.logo1 {
+
+  width: 200px;
+
+  height: 200px;
+
+  float: left;
+
+}
+
+
+
+.logo2 {
+
+	width: 200px;
+
+	height: 200px;
+
+	float: right;
+
+  }
+
+.letras {
+
+	padding-bottom:1px;
+
+  
+
+
+
+}
+
+
+table {
+	
+    margin: 0 auto;
+	
+    border-collapse: collapse;
+    color:black;
+   
+}
+
+td{ background-color: white;
+}
+
+
